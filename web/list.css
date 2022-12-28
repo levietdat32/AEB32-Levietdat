@@ -24,7 +24,67 @@ header{
     
   }
   .suggestBox-MSIo5{
-    margin-top: 20px;
+    margin-top: 27px;
     margin-bottom: 30px;
     margin-left: 0px;
       }
+ .conten{
+  background-color: whitesmoke ;
+  padding-bottom: 20px;
+ }     
+.tieudelist{
+  text-align: center;
+   padding-top: 20px;
+}
+.card_row_1{
+  display: flex;
+}
+.card_1{
+  flex: ;
+  text-align: center
+}
+.card_2{
+  flex: ;
+  text-align: center
+}
+.card_3{
+  flex: ;
+  text-align: center
+}
+.card_row_2{
+  display: flex;
+}
+.card_4{
+  flex: ;
+  text-align: center
+}
+.card_5{
+  flex: ;
+  text-align: center
+}
+.card_6{
+  flex: ;
+  text-align: center
+}
+.card_row_3{
+  display: flex;
+}
+.card_7{
+  flex: ;
+  text-align: center
+}
+.card_8{
+  flex: ;
+  text-align: center
+}
+.card_9{
+  flex: ;
+  text-align: center
+}
+.footer{
+  background-color: whitesmoke;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 1px solid black;
+  
+  }

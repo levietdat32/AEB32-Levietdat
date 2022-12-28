@@ -30,7 +30,29 @@
    width: 25%;
   }
 .suggestBox-MSIo5{
-margin-top: 20px;
+margin-top: 27px;
 margin-bottom: 30px;
 margin-left: 0px;
   }
+.conten1{
+  text-align: center;
+  background-color: aliceblue;
+  padding-top: 15px;
+  padding-bottom: 8px;
+}
+.conten2{
+  text-align: center;
+  background-color: aliceblue;
+}
+.copyright-footer{
+  background-color: beige;
+  text-align: center;
+  height: 30px ;
+}
+.video{
+  text-align: center;
+  width: 1300px;
+  background-color: rgb(201, 213, 216);
+  padding-top: 30px;
+  margin-left: 80px;
+}
