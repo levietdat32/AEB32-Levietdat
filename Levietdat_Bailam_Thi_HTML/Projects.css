@@ -1,0 +1,58 @@
+
+.header{
+    display: flex;
+    background-color: #1b1b1b;
+    color: rgba(0, 0, 0, 0.55)
+  }
+  .home{
+    display: flex;
+    color : black
+  }
+  .list{
+    display: flex;
+    color: black
+  }
+  .form{
+    display: flex;
+    color:black
+  }
+  .conten{
+    display: flex;
+  }
+  .left{
+      width: 25%;
+  }
+  .center{
+    margin-left:100px ;
+
+  }
+  .right{
+   width: 25%;
+  }
+.suggestBox-MSIo5{
+margin-top: 27px;
+margin-bottom: 30px;
+margin-left: 0px;
+  }
+.conten1{
+  text-align: center;
+  background-color: aliceblue;
+  padding-top: 15px;
+  padding-bottom: 8px;
+}
+.conten2{
+  text-align: center;
+  background-color: aliceblue;
+}
+.copyright-footer{
+  background-color: beige;
+  text-align: center;
+  height: 30px ;
+}
+.video{
+  text-align: center;
+  width: 1300px;
+  background-color: rgb(201, 213, 216);
+  padding-top: 30px;
+  margin-left: 80px;
+}

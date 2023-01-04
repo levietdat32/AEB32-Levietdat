@@ -1,0 +1,43 @@
+.header{
+    display: flex;
+    background-color: #1b1b1b;
+    color: rgba(0, 0, 0, 0.55)
+  }
+  .table{
+    display: flex;
+    color : black
+  }
+  .list{
+    display: flex;
+    color: black
+  }
+  .form{
+    display: flex;
+    color:black
+  }
+  .suggestBox-MSIo5{
+    margin-top: 27px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+      }
+      .table_form{
+        border: 2px solid black;
+        height: 200px;
+        width: 500px;
+        margin-left: 500px;
+        margin-top: 150px;
+        background-image: ;
+        background-color: whitesmoke;
+      }
+.login{
+  background-color: black;
+  width: 200px;
+  height: 43px;
+  margin-left: 650px;
+  color: white;
+}
+body{
+  background: no-repeat;
+  background-image: url(https://watermark.lovepik.com/photo/50048/4954.jpg_wh1200.jpg) ;
+  background-size:100% ;
+}

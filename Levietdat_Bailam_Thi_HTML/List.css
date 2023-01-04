@@ -3,7 +3,7 @@ header{
     background-color: #1b1b1b;
     color: rgba(0, 0, 0, 0.55);
   }
-  .home{
+  .table1{
     display: flex;
     color: black;
   }
@@ -15,7 +15,7 @@ header{
     display: flex;
     color:black;
   }
-  .table{
+  .table2{
     border: 1px solid black;
     border-collapse: collapse;
     width: 100%;
@@ -99,4 +99,11 @@ header{
     height: 40px;
     background-color: rgb(238, 121, 121);
     margin-top: 5px;
+  }
+  table, tr, th, td {
+    border: 1px solid black;
+    border-collapse: collapse ;
+  }
+  table{
+    width: 95%;
   }
